@@ -1,0 +1,61 @@
+[08-Jul-2021 13:27:21 Asia/Jakarta] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:27:21 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:27:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ti1a7492/public_html/uas/cek_login.php on line 13
+[08-Jul-2021 13:27:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 14
+[08-Jul-2021 13:27:26 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 15
+[08-Jul-2021 13:27:46 Asia/Jakarta] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:27:46 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:27:46 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ti1a7492/public_html/uas/cek_login.php on line 13
+[08-Jul-2021 13:27:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 14
+[08-Jul-2021 13:27:46 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 15
+[08-Jul-2021 13:28:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:28:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:28:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ti1a7492/public_html/uas/cek_login.php on line 13
+[08-Jul-2021 13:28:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 14
+[08-Jul-2021 13:28:01 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 15
+[08-Jul-2021 13:28:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:28:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:29:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:29:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:30:20 Asia/Jakarta] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:30:20 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:31:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:31:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:31:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ti1a7492/public_html/uas/cek_login.php on line 13
+[08-Jul-2021 13:31:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 14
+[08-Jul-2021 13:31:29 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 15
+[08-Jul-2021 13:31:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ti1a7492/public_html/uas/koneksi.php:4) in /home/ti1a7492/public_html/uas/cek_login.php on line 22
+[08-Jul-2021 13:32:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:33:06 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:33:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ti1a7492/public_html/uas/cek_login.php on line 13
+[08-Jul-2021 13:33:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 14
+[08-Jul-2021 13:33:06 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 15
+[08-Jul-2021 13:33:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:33:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ti1a7492/public_html/uas/cek_login.php on line 13
+[08-Jul-2021 13:33:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 14
+[08-Jul-2021 13:33:32 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 15
+[08-Jul-2021 13:34:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:34:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ti1a7492/public_html/uas/cek_login.php on line 13
+[08-Jul-2021 13:34:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 14
+[08-Jul-2021 13:34:39 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 15
+[08-Jul-2021 13:39:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:39:13 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ti1a7492/public_html/uas/cek_login.php on line 13
+[08-Jul-2021 13:39:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 14
+[08-Jul-2021 13:39:13 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 15
+[08-Jul-2021 13:42:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:42:17 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ti1a7492/public_html/uas/cek_login.php on line 13
+[08-Jul-2021 13:42:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 14
+[08-Jul-2021 13:42:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 15
+[08-Jul-2021 13:42:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:46:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:46:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:46:58 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ti1a7492/public_html/uas/cek_login.php on line 13
+[08-Jul-2021 13:46:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 14
+[08-Jul-2021 13:46:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 15
+[08-Jul-2021 13:56:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ti1a7492/public_html/uas/koneksi.php on line 2
+[08-Jul-2021 13:56:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ti1a7492/public_html/uas/cek_login.php on line 13
+[08-Jul-2021 13:56:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 14
+[08-Jul-2021 13:56:47 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ti1a7492/public_html/uas/cek_login.php on line 15
+[09-Jul-2021 12:38:49 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ti1a7492/public_html/uas/cek_login.php:8) in /home/ti1a7492/public_html/uas/cek_login.php on line 28
+[09-Jul-2021 12:39:17 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ti1a7492/public_html/uas/cek_login.php:8) in /home/ti1a7492/public_html/uas/cek_login.php on line 24
+[09-Jul-2021 12:39:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ti1a7492/public_html/uas/cek_login.php:8) in /home/ti1a7492/public_html/uas/cek_login.php on line 24
